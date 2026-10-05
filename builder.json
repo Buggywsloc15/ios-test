@@ -1,8 +1,19 @@
 {
-  "project": "TestApp",
+  "project": "ios-test",
   "platform": "ios",
+  "github": {
+    "owner": "Buggywsloc15",
+    "repo": "ios-test"
+  },
+  "codemagic": {},
+  "bitrise": {},
   "ios": {
-    "path": ".",
     "bundleId": "com.example.testapp"
-  }
+  },
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
 }
