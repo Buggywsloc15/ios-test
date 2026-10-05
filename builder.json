@@ -1,0 +1,8 @@
+{
+  "project": "TestApp",
+  "platform": "ios",
+  "ios": {
+    "path": ".",
+    "bundleId": "com.example.testapp"
+  }
+}
