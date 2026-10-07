@@ -1,0 +1,20 @@
+{
+  "project": "MyTestApp",
+  "platform": "ios",
+  "github": {
+    "owner": "Buggywsloc15",
+    "repo": "ios-test"
+  },
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "path": "ios",
+    "configuration": "Debug"
+  },
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
