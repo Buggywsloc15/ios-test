@@ -1,1 +1,15 @@
-{ "project": "MyTestApp", "platform": "ios", "github": { "owner": "Buggywsloc15", "repo": "ios-test" }, "ios": { "path": "MyTestApp/ios", "scheme": "MyTestApp", "bundleId": "com.mytestapp", "configuration": "Debug" } }
+{
+  "project": "MyTestApp",
+  "platform": "ios",
+  "github": {
+    "owner": "Buggywsloc15",
+    "repo": "ios-test"
+  },
+  "ios": {
+    "path": "MyTestApp/ios",
+    "scheme": "MyTestApp",
+    "bundleId": "com.mytestapp",
+    "configuration": "Debug",
+    "setup": "cd .. && npm install && cd ios && pod install"
+  }
+}
