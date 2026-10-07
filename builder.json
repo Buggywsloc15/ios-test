@@ -1,6 +1,7 @@
 {
   "project": "MyTestApp",
   "platform": "ios",
+  "framework": "react-native",
   "github": {
     "owner": "Buggywsloc15",
     "repo": "ios-test"
